@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BToolsCLI", "BToolsCLI\BToolsCLI.csproj", "{F5747308-7258-43E7-8798-26034BC844B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOHelperLibrary", "IOHelperLibrary\IOHelperLibrary.csproj", "{69BDF929-331F-45BE-8BA6-7BB8B17A47FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7AC874BA-F00D-464B-A269-9ACBBF92F80F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5747308-7258-43E7-8798-26034BC844B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5747308-7258-43E7-8798-26034BC844B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5747308-7258-43E7-8798-26034BC844B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5747308-7258-43E7-8798-26034BC844B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BDF929-331F-45BE-8BA6-7BB8B17A47FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BDF929-331F-45BE-8BA6-7BB8B17A47FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BDF929-331F-45BE-8BA6-7BB8B17A47FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BDF929-331F-45BE-8BA6-7BB8B17A47FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B5237D-11AC-4AF7-B14E-CBE3214711EB}
+	EndGlobalSection
+EndGlobal
